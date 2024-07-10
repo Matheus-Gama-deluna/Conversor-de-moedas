@@ -1,0 +1,26 @@
+[
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "ARS",
+    "originalAmount": 10.0,
+    "convertedAmount": 9189.199999999999
+  },
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "BRL",
+    "originalAmount": 10.0,
+    "convertedAmount": 54.641000000000005
+  },
+  {
+    "fromCurrency": "BRL",
+    "toCurrency": "USD",
+    "originalAmount": 152.0,
+    "convertedAmount": 27.816
+  },
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "BRL",
+    "originalAmount": 50.0,
+    "convertedAmount": 273.205
+  }
+]
